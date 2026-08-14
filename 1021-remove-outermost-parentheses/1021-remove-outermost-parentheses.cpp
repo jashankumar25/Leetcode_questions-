@@ -2,6 +2,25 @@ class Solution {
 public:
     string removeOuterParentheses(string s) {
         string ans = "";
+        int counter = 0;
+        for (char ch : s) {
+
+            if (ch == ')') {
+                counter--;
+            }
+
+            if (counter != 0) {
+                ans.push_back(ch);
+            }
+            if (ch == '(') {
+                counter++;
+            }
+        }
+        return ans;
+    }
+};
+/*string removeOuterParentheses(string s) {
+        string ans = "";
         int depth = 0;
         for (char ch : s) {
             if (ch == '(') {
@@ -19,8 +38,8 @@ public:
         }
         return ans;
     }
-};
-/*string removeOuterParentheses(string s) {
+------------------------------------------------------
+string removeOuterParentheses(string s) {
         string ans = "";
         stack<char> st;
 
