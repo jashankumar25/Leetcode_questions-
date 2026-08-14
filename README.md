@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1021-remove-outermost-parentheses](https://github.com/jashankumar25/Codehelp/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jashankumar25/Codehelp/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/jashankumar25/Codehelp/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1903-largest-odd-number-in-string](https://github.com/jashankumar25/Codehelp/tree/master/1903-largest-odd-number-in-string) |
 ## Array
 |  |
 | ------- |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0012-integer-to-roman](https://github.com/jashankumar25/Codehelp/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/jashankumar25/Codehelp/tree/master/0048-rotate-image) |
 | [0509-fibonacci-number](https://github.com/jashankumar25/Codehelp/tree/master/0509-fibonacci-number) |
+| [1903-largest-odd-number-in-string](https://github.com/jashankumar25/Codehelp/tree/master/1903-largest-odd-number-in-string) |
 ## Linked List
 |  |
 | ------- |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0402-remove-k-digits](https://github.com/jashankumar25/Codehelp/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/jashankumar25/Codehelp/tree/master/0410-split-array-largest-sum) |
+| [1903-largest-odd-number-in-string](https://github.com/jashankumar25/Codehelp/tree/master/1903-largest-odd-number-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
