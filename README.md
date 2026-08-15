@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0006-zigzag-conversion](https://github.com/jashankumar25/Codehelp/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/jashankumar25/Codehelp/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/jashankumar25/Codehelp/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/jashankumar25/Codehelp/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/jashankumar25/Codehelp/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/jashankumar25/Codehelp/tree/master/0032-longest-valid-parentheses) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/jashankumar25/Codehelp/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/jashankumar25/Codehelp/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/jashankumar25/Codehelp/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/jashankumar25/Codehelp/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/jashankumar25/Codehelp/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/jashankumar25/Codehelp/tree/master/0141-linked-list-cycle) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/jashankumar25/Codehelp/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/jashankumar25/Codehelp/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/jashankumar25/Codehelp/tree/master/0048-rotate-image) |
 | [0509-fibonacci-number](https://github.com/jashankumar25/Codehelp/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/jashankumar25/Codehelp/tree/master/1903-largest-odd-number-in-string) |
