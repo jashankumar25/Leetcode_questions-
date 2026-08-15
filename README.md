@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0151-reverse-words-in-a-string](https://github.com/jashankumar25/Codehelp/tree/master/0151-reverse-words-in-a-string) |
 | [0402-remove-k-digits](https://github.com/jashankumar25/Codehelp/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/jashankumar25/Codehelp/tree/master/0443-string-compression) |
+| [0796-rotate-string](https://github.com/jashankumar25/Codehelp/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/jashankumar25/Codehelp/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jashankumar25/Codehelp/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/jashankumar25/Codehelp/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -265,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/jashankumar25/Codehelp/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/jashankumar25/Codehelp/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
