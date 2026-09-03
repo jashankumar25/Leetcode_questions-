@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jashankumar25/Codehelp/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2540-minimum-common-value](https://github.com/jashankumar25/Codehelp/tree/master/2540-minimum-common-value) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jashankumar25/Codehelp/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/jashankumar25/Codehelp/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0509-fibonacci-number](https://github.com/jashankumar25/Codehelp/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/jashankumar25/Codehelp/tree/master/1903-largest-odd-number-in-string) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/jashankumar25/Codehelp/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/jashankumar25/Codehelp/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Linked List
 |  |
 | ------- |
