@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jashankumar25/Codehelp/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/jashankumar25/Codehelp/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/jashankumar25/Codehelp/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/jashankumar25/Codehelp/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0410-split-array-largest-sum](https://github.com/jashankumar25/Codehelp/tree/master/0410-split-array-largest-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/jashankumar25/Codehelp/tree/master/1004-max-consecutive-ones-iii) |
 | [3903-smallest-stable-index-i](https://github.com/jashankumar25/Codehelp/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/jashankumar25/Codehelp/tree/master/3904-smallest-stable-index-ii) |
 ## Memoization
 |  |
 | ------- |
