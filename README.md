@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0443-string-compression](https://github.com/jashankumar25/Codehelp/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/jashankumar25/Codehelp/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/jashankumar25/Codehelp/tree/master/0796-rotate-string) |
+| [0940-distinct-subsequences-ii](https://github.com/jashankumar25/Codehelp/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/jashankumar25/Codehelp/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jashankumar25/Codehelp/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jashankumar25/Codehelp/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jashankumar25/Codehelp/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/jashankumar25/Codehelp/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/jashankumar25/Codehelp/tree/master/0509-fibonacci-number) |
+| [0940-distinct-subsequences-ii](https://github.com/jashankumar25/Codehelp/tree/master/0940-distinct-subsequences-ii) |
 ## Simulation
 |  |
 | ------- |
