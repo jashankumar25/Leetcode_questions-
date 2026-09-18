@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0205-isomorphic-strings](https://github.com/jashankumar25/Codehelp/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/jashankumar25/Codehelp/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/jashankumar25/Codehelp/tree/master/0402-remove-k-digits) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/jashankumar25/Codehelp/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/jashankumar25/Codehelp/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/jashankumar25/Codehelp/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/jashankumar25/Codehelp/tree/master/0796-rotate-string) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0205-isomorphic-strings](https://github.com/jashankumar25/Codehelp/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/jashankumar25/Codehelp/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/jashankumar25/Codehelp/tree/master/0242-valid-anagram) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/jashankumar25/Codehelp/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/jashankumar25/Codehelp/tree/master/0451-sort-characters-by-frequency) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/jashankumar25/Codehelp/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/jashankumar25/Codehelp/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sliding Window
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/jashankumar25/Codehelp/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1004-max-consecutive-ones-iii](https://github.com/jashankumar25/Codehelp/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/jashankumar25/Codehelp/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jashankumar25/Codehelp/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
