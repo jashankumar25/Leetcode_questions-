@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0940-distinct-subsequences-ii](https://github.com/jashankumar25/Codehelp/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/jashankumar25/Codehelp/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jashankumar25/Codehelp/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/jashankumar25/Codehelp/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jashankumar25/Codehelp/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/jashankumar25/Codehelp/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/jashankumar25/Codehelp/tree/master/1903-largest-odd-number-in-string) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/jashankumar25/Codehelp/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/jashankumar25/Codehelp/tree/master/0451-sort-characters-by-frequency) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/jashankumar25/Codehelp/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/jashankumar25/Codehelp/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/jashankumar25/Codehelp/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jashankumar25/Codehelp/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2540-minimum-common-value](https://github.com/jashankumar25/Codehelp/tree/master/2540-minimum-common-value) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0229-majority-element-ii](https://github.com/jashankumar25/Codehelp/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/jashankumar25/Codehelp/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/jashankumar25/Codehelp/tree/master/0451-sort-characters-by-frequency) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/jashankumar25/Codehelp/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0402-remove-k-digits](https://github.com/jashankumar25/Codehelp/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/jashankumar25/Codehelp/tree/master/0410-split-array-largest-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/jashankumar25/Codehelp/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/jashankumar25/Codehelp/tree/master/1903-largest-odd-number-in-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/jashankumar25/Codehelp/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Monotonic Stack
