@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jashankumar25/Codehelp/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/jashankumar25/Codehelp/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/jashankumar25/Codehelp/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/jashankumar25/Codehelp/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/jashankumar25/Codehelp/tree/master/0229-majority-element-ii) |
 | [0410-split-array-largest-sum](https://github.com/jashankumar25/Codehelp/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/jashankumar25/Codehelp/tree/master/0540-single-element-in-a-sorted-array) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0142-linked-list-cycle-ii](https://github.com/jashankumar25/Codehelp/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/jashankumar25/Codehelp/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/jashankumar25/Codehelp/tree/master/0205-isomorphic-strings) |
+| [0219-contains-duplicate-ii](https://github.com/jashankumar25/Codehelp/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/jashankumar25/Codehelp/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/jashankumar25/Codehelp/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/jashankumar25/Codehelp/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/jashankumar25/Codehelp/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/jashankumar25/Codehelp/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/jashankumar25/Codehelp/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1004-max-consecutive-ones-iii](https://github.com/jashankumar25/Codehelp/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/jashankumar25/Codehelp/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
