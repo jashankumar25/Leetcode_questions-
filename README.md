@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0013-roman-to-integer](https://github.com/jashankumar25/Codehelp/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/jashankumar25/Codehelp/tree/master/0048-rotate-image) |
 | [0509-fibonacci-number](https://github.com/jashankumar25/Codehelp/tree/master/0509-fibonacci-number) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/jashankumar25/Codehelp/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1903-largest-odd-number-in-string](https://github.com/jashankumar25/Codehelp/tree/master/1903-largest-odd-number-in-string) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/jashankumar25/Codehelp/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/jashankumar25/Codehelp/tree/master/3870-count-commas-in-range) |
@@ -354,4 +355,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/jashankumar25/Codehelp/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/jashankumar25/Codehelp/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
