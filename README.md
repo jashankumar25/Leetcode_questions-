@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1832-check-if-the-sentence-is-pangram](https://github.com/jashankumar25/Codehelp/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/jashankumar25/Codehelp/tree/master/1903-largest-odd-number-in-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/jashankumar25/Codehelp/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3498-reverse-degree-of-a-string](https://github.com/jashankumar25/Codehelp/tree/master/3498-reverse-degree-of-a-string) |
 ## Array
 |  |
 | ------- |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0054-spiral-matrix](https://github.com/jashankumar25/Codehelp/tree/master/0054-spiral-matrix) |
 | [1441-build-an-array-with-stack-operations](https://github.com/jashankumar25/Codehelp/tree/master/1441-build-an-array-with-stack-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/jashankumar25/Codehelp/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3498-reverse-degree-of-a-string](https://github.com/jashankumar25/Codehelp/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
 | ------- |
