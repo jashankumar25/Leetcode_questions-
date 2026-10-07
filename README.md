@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0115-distinct-subsequences](https://github.com/jashankumar25/Codehelp/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/jashankumar25/Codehelp/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jashankumar25/Codehelp/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/jashankumar25/Codehelp/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0410-split-array-largest-sum](https://github.com/jashankumar25/Codehelp/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/jashankumar25/Codehelp/tree/master/0509-fibonacci-number) |
 | [0940-distinct-subsequences-ii](https://github.com/jashankumar25/Codehelp/tree/master/0940-distinct-subsequences-ii) |
@@ -353,19 +354,26 @@ A collection of LeetCode questions to ace the coding interview!
 ## Tree
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/jashankumar25/Codehelp/tree/master/0124-binary-tree-maximum-path-sum) |
 | [2236-root-equals-sum-of-children](https://github.com/jashankumar25/Codehelp/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/jashankumar25/Codehelp/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/jashankumar25/Codehelp/tree/master/0124-binary-tree-maximum-path-sum) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/jashankumar25/Codehelp/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/jashankumar25/Codehelp/tree/master/0124-binary-tree-maximum-path-sum) |
 | [2236-root-equals-sum-of-children](https://github.com/jashankumar25/Codehelp/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/jashankumar25/Codehelp/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Geometry
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/jashankumar25/Codehelp/tree/master/1401-circle-and-rectangle-overlapping) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/jashankumar25/Codehelp/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
