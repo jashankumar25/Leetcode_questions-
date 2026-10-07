@@ -353,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Tree
 |  |
 | ------- |
+| [2236-root-equals-sum-of-children](https://github.com/jashankumar25/Codehelp/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/jashankumar25/Codehelp/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Tree
 |  |
 | ------- |
+| [2236-root-equals-sum-of-children](https://github.com/jashankumar25/Codehelp/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/jashankumar25/Codehelp/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Geometry
 |  |
