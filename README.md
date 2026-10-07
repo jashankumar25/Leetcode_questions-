@@ -354,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/jashankumar25/Codehelp/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/jashankumar25/Codehelp/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/jashankumar25/Codehelp/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/jashankumar25/Codehelp/tree/master/0543-diameter-of-binary-tree) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/jashankumar25/Codehelp/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/jashankumar25/Codehelp/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/jashankumar25/Codehelp/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/jashankumar25/Codehelp/tree/master/0543-diameter-of-binary-tree) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/jashankumar25/Codehelp/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/jashankumar25/Codehelp/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/jashankumar25/Codehelp/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/jashankumar25/Codehelp/tree/master/0543-diameter-of-binary-tree) |
@@ -383,4 +386,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/jashankumar25/Codehelp/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/jashankumar25/Codehelp/tree/master/0543-diameter-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/jashankumar25/Codehelp/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
