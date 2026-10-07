@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0151-reverse-words-in-a-string](https://github.com/jashankumar25/Codehelp/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/jashankumar25/Codehelp/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/jashankumar25/Codehelp/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/jashankumar25/Codehelp/tree/master/0301-remove-invalid-parentheses) |
 | [0402-remove-k-digits](https://github.com/jashankumar25/Codehelp/tree/master/0402-remove-k-digits) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/jashankumar25/Codehelp/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/jashankumar25/Codehelp/tree/master/0443-string-compression) |
@@ -420,5 +421,10 @@ A collection of LeetCode questions to ace the coding interview!
 | [0102-binary-tree-level-order-traversal](https://github.com/jashankumar25/Codehelp/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/jashankumar25/Codehelp/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/jashankumar25/Codehelp/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/jashankumar25/Codehelp/tree/master/0301-remove-invalid-parentheses) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/jashankumar25/Codehelp/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/jashankumar25/Codehelp/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
