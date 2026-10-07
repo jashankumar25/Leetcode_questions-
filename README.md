@@ -355,17 +355,20 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/jashankumar25/Codehelp/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0543-diameter-of-binary-tree](https://github.com/jashankumar25/Codehelp/tree/master/0543-diameter-of-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/jashankumar25/Codehelp/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/jashankumar25/Codehelp/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/jashankumar25/Codehelp/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0543-diameter-of-binary-tree](https://github.com/jashankumar25/Codehelp/tree/master/0543-diameter-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/jashankumar25/Codehelp/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/jashankumar25/Codehelp/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0543-diameter-of-binary-tree](https://github.com/jashankumar25/Codehelp/tree/master/0543-diameter-of-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/jashankumar25/Codehelp/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/jashankumar25/Codehelp/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Geometry
@@ -376,4 +379,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/jashankumar25/Codehelp/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0543-diameter-of-binary-tree](https://github.com/jashankumar25/Codehelp/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
