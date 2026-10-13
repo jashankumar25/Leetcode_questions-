@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/jashankumar25/Codehelp/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/jashankumar25/Codehelp/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/jashankumar25/Codehelp/tree/master/0451-sort-characters-by-frequency) |
+| [0652-find-duplicate-subtrees](https://github.com/jashankumar25/Codehelp/tree/master/0652-find-duplicate-subtrees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/jashankumar25/Codehelp/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/jashankumar25/Codehelp/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/jashankumar25/Codehelp/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0144-binary-tree-preorder-traversal](https://github.com/jashankumar25/Codehelp/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jashankumar25/Codehelp/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/jashankumar25/Codehelp/tree/master/0543-diameter-of-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/jashankumar25/Codehelp/tree/master/0652-find-duplicate-subtrees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/jashankumar25/Codehelp/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/jashankumar25/Codehelp/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/jashankumar25/Codehelp/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0144-binary-tree-preorder-traversal](https://github.com/jashankumar25/Codehelp/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jashankumar25/Codehelp/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/jashankumar25/Codehelp/tree/master/0543-diameter-of-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/jashankumar25/Codehelp/tree/master/0652-find-duplicate-subtrees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/jashankumar25/Codehelp/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/jashankumar25/Codehelp/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
@@ -410,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0144-binary-tree-preorder-traversal](https://github.com/jashankumar25/Codehelp/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jashankumar25/Codehelp/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/jashankumar25/Codehelp/tree/master/0543-diameter-of-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/jashankumar25/Codehelp/tree/master/0652-find-duplicate-subtrees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/jashankumar25/Codehelp/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/jashankumar25/Codehelp/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/jashankumar25/Codehelp/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
