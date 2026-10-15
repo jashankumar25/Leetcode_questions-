@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jashankumar25/Codehelp/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2540-minimum-common-value](https://github.com/jashankumar25/Codehelp/tree/master/2540-minimum-common-value) |
 | [2653-sliding-subarray-beauty](https://github.com/jashankumar25/Codehelp/tree/master/2653-sliding-subarray-beauty) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/jashankumar25/Codehelp/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jashankumar25/Codehelp/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/jashankumar25/Codehelp/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/jashankumar25/Codehelp/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jashankumar25/Codehelp/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2540-minimum-common-value](https://github.com/jashankumar25/Codehelp/tree/master/2540-minimum-common-value) |
 | [2653-sliding-subarray-beauty](https://github.com/jashankumar25/Codehelp/tree/master/2653-sliding-subarray-beauty) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/jashankumar25/Codehelp/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jashankumar25/Codehelp/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Two Pointers
 |  |
@@ -441,4 +443,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/jashankumar25/Codehelp/tree/master/0301-remove-invalid-parentheses) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/jashankumar25/Codehelp/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/jashankumar25/Codehelp/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
